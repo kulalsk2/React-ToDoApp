@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-ToDoApp/static/css/main.5406626d.chunk.css",
+    "main.js": "/React-ToDoApp/static/js/main.c2bcea3a.chunk.js",
+    "main.js.map": "/React-ToDoApp/static/js/main.c2bcea3a.chunk.js.map",
+    "runtime-main.js": "/React-ToDoApp/static/js/runtime-main.27b6d29e.js",
+    "runtime-main.js.map": "/React-ToDoApp/static/js/runtime-main.27b6d29e.js.map",
+    "static/js/2.03b3a3f1.chunk.js": "/React-ToDoApp/static/js/2.03b3a3f1.chunk.js",
+    "static/js/2.03b3a3f1.chunk.js.map": "/React-ToDoApp/static/js/2.03b3a3f1.chunk.js.map",
+    "index.html": "/React-ToDoApp/index.html",
+    "precache-manifest.bd3606a4cdba5c55857e4ee5fb0862bc.js": "/React-ToDoApp/precache-manifest.bd3606a4cdba5c55857e4ee5fb0862bc.js",
+    "service-worker.js": "/React-ToDoApp/service-worker.js",
+    "static/css/main.5406626d.chunk.css.map": "/React-ToDoApp/static/css/main.5406626d.chunk.css.map",
+    "static/js/2.03b3a3f1.chunk.js.LICENSE.txt": "/React-ToDoApp/static/js/2.03b3a3f1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-ToDoApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27b6d29e.js",
+    "static/js/2.03b3a3f1.chunk.js",
+    "static/css/main.5406626d.chunk.css",
+    "static/js/main.c2bcea3a.chunk.js"
+  ]
+}
